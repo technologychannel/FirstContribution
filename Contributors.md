@@ -17,3 +17,5 @@ E.g [Bishworaj Poudel](https://github.com/technologychannel)
 - [Khemraj Shrestha](https://github.com/itsmekhemraj)
 - [Mukul Yadav](https://github.com/mukulamy)
 - [Nishan Giri](https://github.com/Nishan123)
+- [Samrat Karki](https://github.com/Samrat3314)
+

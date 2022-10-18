@@ -18,4 +18,4 @@ E.g [Bishworaj Poudel](https://github.com/technologychannel)
 - [Mukul Yadav](https://github.com/mukulamy)
 - [Nishan Giri](https://github.com/Nishan123)
 - [Samrat Karki](https://github.com/Samrat3314)
-
+- [Aayush Dhakal](https://github.com/aayush-dhakal)

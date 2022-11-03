@@ -1,4 +1,4 @@
-### Contributers List.
+-### Contributers List.
 
 # Please add your name in the following format
 
@@ -22,3 +22,4 @@ E.g [Bishworaj Poudel](https://github.com/technologychannel)
 - [Dipesh Shrestha](https://github.com/dipeshshresthaofficial)
 - [Mohit Bishwokarma](https://github.com/Mohitbishukarma)
 - [Komal Vishwakarma](https://github.com/komi14)
+- [Lhamu Tsering] (https://github.com/lhamutserings)

@@ -23,4 +23,7 @@ E.g [Bishworaj Poudel](https://github.com/technologychannel)
 - [Mohit Bishwokarma](https://github.com/Mohitbishukarma)
 - [Komal Vishwakarma](https://github.com/komi14)
 - [Ajit Shrestha](https://github.com/ajitshrestha1516)
+- [Asmita kakshapati](https://github.com/kakshapatiasmi) 
 - [Lhamu Tsering](https://github.com/lhamutserings)
+
+

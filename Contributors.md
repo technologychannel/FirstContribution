@@ -25,5 +25,6 @@ E.g [Bishworaj Poudel](https://github.com/technologychannel)
 - [Ajit Shrestha](https://github.com/ajitshrestha1516)
 - [Asmita kakshapati](https://github.com/kakshapatiasmi) 
 - [Lhamu Tsering](https://github.com/lhamutserings)
+- [Ashis Adhikary](https://github.com/ashisadhikary)
 
 

@@ -29,3 +29,5 @@ E.g [Bishworaj Poudel](https://github.com/technologychannel)
 - [Bikram Twayana](https://github.com/Bikram-Twana)
 - [Asmita Koirala](https://github.com/asmita50)
 - [Saroj Ojha] (https://github.com/sarojojha09)
+- [Bijay Kumal](https://github.com/BijayKumal)
+

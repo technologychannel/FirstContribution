@@ -30,4 +30,5 @@ E.g [Bishworaj Poudel](https://github.com/technologychannel)
 - [Asmita Koirala](https://github.com/asmita50)
 - [Saroj Ojha] (https://github.com/sarojojha09)
 - [Bijay Kumal](https://github.com/BijayKumal)
+- [Saman KC] (https://github.com/SamanKC)
 

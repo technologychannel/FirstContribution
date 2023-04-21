@@ -33,4 +33,4 @@ E.g [Bishworaj Poudel](https://github.com/technologychannel)
 - [Saman KC] (https://github.com/SamanKC)
 - [Manish Ghorashainee](https://github.com/Manishghorashaine)
 - [Ajaya Kandel](https://github.com/ajaya2944)
-
+- [Sabin Kumpakha](https://github.com/Sabin-Kumpakha)

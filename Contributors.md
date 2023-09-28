@@ -35,4 +35,5 @@ E.g [Bishworaj Poudel](https://github.com/technologychannel)
 - [Ajaya Kandel](https://github.com/ajaya2944)
 - [Sabin Kumpakha](https://github.com/Sabin-Kumpakha)
 - [Sahil Arora](https://github.com/TSxSAHIL)
+- [Anusri Rao](https://github.com/Anusri-Rao676)
 
